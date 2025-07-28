@@ -96,10 +96,5 @@ jupyter notebook "K-means Clustering.ipynb"
 For any queries or collaborations, feel free to reach out:
 
 **Prathmesh Wavhal**  
-📧 your.email@example.com
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
